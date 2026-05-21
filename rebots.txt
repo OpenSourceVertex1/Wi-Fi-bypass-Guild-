@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yourwebsite.com/sitemap.xml
+
+# SEO Optimization
+# Wi-Fi Bypass Research
+# Networking
+
+# Keywords:
+# wifi bypass
+# vpn bypass
+# captive portal bypass
+# dns tunneling
+# proxy server
+# router bypass mode
+# wifi firewall bypass
+# cybersecurity
+# networking
