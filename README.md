@@ -146,20 +146,6 @@ Common Uses:
 - Enterprise networking
 
 ------------------------------------------------------------
-Security Recommendations
-------------------------------------------------------------
-
-To protect your Wi-Fi network:
-
-- Use WPA3 encryption when available
-- Disable unused WPS features
-- Change default router passwords
-- Monitor connected devices
-- Update router firmware regularly
-- Use strong DNS filtering
-- Enable firewall protection
-
-------------------------------------------------------------
 
 References
 ------------------------------------------------------------
